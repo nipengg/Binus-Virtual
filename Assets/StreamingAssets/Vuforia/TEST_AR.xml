@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Logo-Binus" size="100.000000 61.534969" />
+    <ImageTarget name="binuslog" size="100.000000 61.538460" />
+    <ImageTarget name="image_2022-03-17_143314" size="100.000000 105.609756" />
+  </Tracking>
+</QCARConfig>
